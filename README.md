@@ -2,8 +2,12 @@
 Adapting a NEX NP13CL projector lens to M42 allows it to be used with a wide variety of cameras in my case, a Sony ZV-E10.
 The full setup consists of the lens, an M42 helicoid, and this three-part adapter system.
 
-IMPORTANT! The Helicoid is a bought part not 3d printed without it you will have a very minimized focus field if you can even get it to focus.
-  Just search for a M42 to M42 Helicoid. I used a 25-55mm.
+Important Notice
+
+I have not found an official source specifying the flange focal distance of the NP13CL.
+The dimensions used here are based on a rough estimate that works for my copy of the lens and camera.
+You may need to fine-tune the distance for your setup — this can be done easily by adding height to the 56 mm inlay.
+Do not move the inlay any closer to the front element; it already sits nearly flush with the highest part of the glass, and pushing it further could cause damage.
 
 Overview
 
