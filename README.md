@@ -1,6 +1,5 @@
 # NP13CL_to_M42
 Adapting a NEX NP13CL projector lens to M42 allows it to be used with a wide variety of cameras in my case, a Sony ZV-E10.
-The full setup consists of the lens, an M42 helicoid, and this three-part adapter system.
 
 Important Notice
 
@@ -11,10 +10,17 @@ Do not move the inlay any closer to the front element; it already sits nearly fl
 
 Overview
 
-The adapter includes three 3D-printed parts:
--Sleeve covers the inner workings of the lens and provides a clean outer finish.
+The M42 adapter includes three 3D-printed parts:
+-Sleeve covers the inner workings of the lens and provides a clean outer finish. (same for both variants)
 -Flange adapter converts the original NEX-style flange to a 56 mm recessed mount.
 -56 mm disk to M42 – provides the threaded connection for the helicoid or any M42-compatible mount.
+All parts are designed to print easily without supports.
+
+
+The Sony E-mount adapter includes three 3D-printed parts:
+-Sleeve covers the inner workings of the lens and provides a clean outer finish. (same for both variants)
+-Flange adapter converts the original NEX-style flange to a  mm recessed mount.
+- mm disk to Sony E-Mount – This is NOT my work you can find it on https://www.printables.com/model/143762-sony-efe-lens-mount made by @thenickdude (thanks!)
 All parts are designed to print easily without supports.
 
 Printing
