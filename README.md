@@ -3,6 +3,8 @@ Adapting a NEX NP13CL projector lens to M42 allows it to be used with a wide var
 
 Important Notice
 
+Work in Progress! currently still having issues with the tollerances with the sleave therefor i have not Uploaded it yet it will follow soon.
+
 I have not found an official source specifying the flange focal distance of the NP13CL.
 The dimensions used here are based on a rough estimate that works for my copy of the lens and camera.
 You may need to fine-tune the distance for your setup — this can be done easily by adding height to the 56 mm inlay.
